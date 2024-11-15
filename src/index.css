@@ -4,3 +4,17 @@
 html {
   scroll-behavior: smooth;
 }
+
+@font-face {
+  font-family: 'aleo';
+  src: url('/aleo-regular-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'rozanova';
+  src: url('/RozanovaGEO-Demo-SemiBold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
